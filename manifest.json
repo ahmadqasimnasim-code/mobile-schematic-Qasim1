@@ -1,0 +1,13 @@
+
+{
+  "version": "1.0.1",
+  "files": [
+    {
+      "model": "Samsung A10s",
+      "type": "schematic",
+      "format": "pdf",
+      "path": "schematics/samsung-a10s.pdf",
+      "url": "schematics/samsung-a10s.pdf"
+    }
+  ]
+}
